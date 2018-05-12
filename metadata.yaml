@@ -1,0 +1,30 @@
+_repo: Historia-de-la-Conquista-de-la-Habana--1762-_45151
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45151-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guiteras, Pedro José
+    aliases:
+    - Guiteras, Pedro Jose
+    - Guiteras, Pedro J. (Pedro José)
+    birthdate: 1814
+    deathdate: 1890
+    gutenberg_agent_id: '43124'
+    url: http://www.gutenberg.org/2009/agents/43124
+description: ''
+gutenberg_issued: '2014-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45151'
+  lccn: '03025003'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1751'
+- !lcsh 'Havana (Cuba) -- History -- Siege, 1762'
+title: Historia de la Conquista de la Habana (1762)
+url: http://www.gutenberg.org/ebooks/45151
